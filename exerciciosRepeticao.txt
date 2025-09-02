@@ -1,0 +1,25 @@
+/* 5)(Fazer com while, do-while e for) Crie um algoritmo que receba a temperatura de N pessoas. Ao final, imprima na tela a quantidade de pessoas que estão com febre. Assuma que estão com febre as pessoas que estiverem com temperatura acima de 38ºC
+
+6) (Fazer com while, do-while e for) Crie um algoritmo que leia a matricula e a nota de 5 alunos e ao final, imprima na tela as matrículas dos alunos que estão com nota acima da média.
+
+7) Faça um programa que tenha um menu com as seguintes opçoes:
+a) SOMA
+b) SUBTRAÇÃO
+c) MULTIPLICAÇÃO
+d) DIVISÃO
+e) sair
+Ao escolher a opção sair, o programa deve listar quantas operações de cada tipo foram feitas. 
+
+8) Faça um programa que crie um objeto pokemão que tenha
+nome, HP, ataque (um valor aleatório entre 1 e 3), level.
+O programa deve ter um menu com as opções:
+1) batalhar
+2) vitorias vs derrotas
+3) listar objeto (mostrar todos os atributos do pokemão no inicio do programa e atualmente)
+4) Sair
+
+A opçao batalhar deve gerar um inimigo aleatório com HP entre 5 e 10 e ataque entre 0 a 4. A cada batalha o pokemão vai intercalar o ataque dele com o ataque do inimigo. O primeiro que zerar o HP perde a luta. Ao vencer uma luta, o pokemão deve subir permanentemente um dos seus atributos (hp ou ataque).
+A opção 2 deve mostrar o numero de vitorias e derrotas que o pokemão teve
+A opção 3 deve mostrar os dados atuais do pokemão e seus dados iniciais.
+A opção 4 deve sair do programa.
+*/
